@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562255468150",
+    "firebase_url": "https://mathzone-ff8bd.firebaseio.com",
+    "project_id": "mathzone-ff8bd",
+    "storage_bucket": "mathzone-ff8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562255468150:android:cb49549b02d9a088",
+        "android_client_info": {
+          "package_name": "com.SoftG.MathZone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562255468150-ucuc6214208d9rmjo5nglfogg9auo6i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0VzeNqQihHEMWM0CHpBTGBY8vf_9NwYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562255468150-ucuc6214208d9rmjo5nglfogg9auo6i4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "562255468150-u6fu961jh2pnhplb3c2ve8tqf8as7rbo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SoftG.MathZone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
